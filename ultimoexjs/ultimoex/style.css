@@ -1,0 +1,39 @@
+body {
+  background: gray
+}
+
+
+header {
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+
+section {
+  width: 500px;
+  margin: auto;
+  padding: 15px;
+  background: white;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px black;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+select {
+  margin-top: 15px;
+  width: 150px;
+}
+
+#fim {
+  margin-top: 5px;
+}
+
+#fimpa {
+  margin-top: 20px;
+}
